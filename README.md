@@ -29,6 +29,7 @@ This repository contains a collection of data analysis projects developed using 
 **Tools:** Excel, PivotTables, PivotCharts
 
 [View Project](./HR-Analytics/)
+[View Dashboard](./HR-Analytics/HR.png)
 
 ### 2. Hypermarket Sales Analysis
 
