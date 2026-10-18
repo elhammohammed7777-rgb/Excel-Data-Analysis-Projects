@@ -79,7 +79,7 @@ This repository contains a collection of data analysis projects developed using 
 
 [View Project](./Cost-of-Living/)
 
-![Cost of Living Analysis Dashboard](Cost-of-Living/Cost-of_Living.png)
+![Cost of Living Analysis Dashboard](Cost-of-Living/Cost-Of_Living.png)
 
 ## 🎯 Key Goals
 
