@@ -29,6 +29,7 @@ This repository contains a collection of data analysis projects developed using 
 **Tools:** Excel, PivotTables, PivotCharts
 
 [View Project](./HR-Analytics/)
+
 ![HR Analytics Dashboard](HR-Analytics/HR.png)
 
 ### 2. Hypermarket Sales Analysis
@@ -46,6 +47,8 @@ This repository contains a collection of data analysis projects developed using 
 
 [View Project](./Hypermarket-Sales/)
 
+![Hypermarket Sales Dashboard](Hypermarket-Sales/Hypermarket.png)
+
 ### 3. Global Companies Analysis
 
 **Objective:** Explore global company data to understand geographic distribution and compare company representation across countries.
@@ -60,6 +63,8 @@ This repository contains a collection of data analysis projects developed using 
 
 [View Project](./Global-Companies/)
 
+![Global Companies Dashboard](Global-Companies/Global-Companies.png)
+
 ### 4. Cost of Living Analysis
 
 **Objective:** Analyze cost-of-living data to compare expenses across categories and identify major cost drivers.
@@ -73,6 +78,8 @@ This repository contains a collection of data analysis projects developed using 
 **Tools:** Excel, Data Cleaning, PivotTables, Charts
 
 [View Project](./Cost-of-Living/)
+
+![Cost of Living Analysis Dashboard](Cost-of-Living/Cost-of-Living.png)
 
 ## 🎯 Key Goals
 
